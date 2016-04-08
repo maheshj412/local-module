@@ -9,7 +9,6 @@ public class ggggggggggggg {
 		
 		System.out.println("tttttttttttttt");
 
-		System.out.println("ddddddddddddddd");
 		
 	}
 
